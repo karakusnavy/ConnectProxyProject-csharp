@@ -1,0 +1,9 @@
+C:\Users\EFSANE\Desktop\ConnectProxyProject\ConnectProxyProject\bin\Debug\ConnectProxyProject.exe.config
+C:\Users\EFSANE\Desktop\ConnectProxyProject\ConnectProxyProject\bin\Debug\ConnectProxyProject.exe
+C:\Users\EFSANE\Desktop\ConnectProxyProject\ConnectProxyProject\bin\Debug\ConnectProxyProject.pdb
+C:\Users\EFSANE\Desktop\ConnectProxyProject\ConnectProxyProject\obj\Debug\ConnectProxyProject.csprojResolveAssemblyReference.cache
+C:\Users\EFSANE\Desktop\ConnectProxyProject\ConnectProxyProject\obj\Debug\ConnectProxyProject.Form1.resources
+C:\Users\EFSANE\Desktop\ConnectProxyProject\ConnectProxyProject\obj\Debug\ConnectProxyProject.Properties.Resources.resources
+C:\Users\EFSANE\Desktop\ConnectProxyProject\ConnectProxyProject\obj\Debug\ConnectProxyProject.csproj.GenerateResource.Cache
+C:\Users\EFSANE\Desktop\ConnectProxyProject\ConnectProxyProject\obj\Debug\ConnectProxyProject.exe
+C:\Users\EFSANE\Desktop\ConnectProxyProject\ConnectProxyProject\obj\Debug\ConnectProxyProject.pdb
